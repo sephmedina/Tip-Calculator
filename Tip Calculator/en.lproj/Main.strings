@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Bill"; ObjectID = "JFB-NG-fje"; */
+"JFB-NG-fje.text" = "Bill";
+
+/* Class = "UILabel"; text = "Tip Calculator"; ObjectID = "VcL-Nk-tbq"; */
+"VcL-Nk-tbq.text" = "Tip Calculator";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "ViN-hx-skw"; */
+"ViN-hx-skw.text" = "Tip";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "aTH-x9-vd8"; */
+"aTH-x9-vd8.text" = "$0.00";
+
+/* Class = "UINavigationItem"; title = "Tip Calculator"; ObjectID = "cPd-cQ-Hgv"; */
+"cPd-cQ-Hgv.title" = "Tip Calculator";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "f6n-In-l8e"; */
+"f6n-In-l8e.text" = "$0.00";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "mxt-1Y-TT6"; */
+"mxt-1Y-TT6.text" = "Total";
+
+/* Class = "UISegmentedControl"; r6I-yg-P7j.segmentTitles[0] = "10%"; ObjectID = "r6I-yg-P7j"; */
+"r6I-yg-P7j.segmentTitles[0]" = "10%";
+
+/* Class = "UISegmentedControl"; r6I-yg-P7j.segmentTitles[1] = "15%"; ObjectID = "r6I-yg-P7j"; */
+"r6I-yg-P7j.segmentTitles[1]" = "15%";
+
+/* Class = "UISegmentedControl"; r6I-yg-P7j.segmentTitles[2] = "20%"; ObjectID = "r6I-yg-P7j"; */
+"r6I-yg-P7j.segmentTitles[2]" = "20%";
